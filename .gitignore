@@ -1,5 +1,5 @@
 htdocs/wp-config-local.php
-htdocs/wp-content/themes/YOURTHEME/.sass-cache/*
+htdocs/wp-content/themes/bulletin-child/.sass-cache/*
 htdocs/wp-content/upgrade/*
 readme.html
 license.txt

@@ -7,3 +7,6 @@ Author URI:     http://perryjhoffman.com/
 Template:       bulletin
 Version:        0.1.0
 */
+
+@import url("../bulletin/style.css");
+@import url("stylesheets/screen.css");
